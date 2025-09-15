@@ -1,0 +1,14 @@
+D:\2024essentialC#\chapter10\list15\list15\bin\Debug\net8.0\list15.exe
+D:\2024essentialC#\chapter10\list15\list15\bin\Debug\net8.0\list15.deps.json
+D:\2024essentialC#\chapter10\list15\list15\bin\Debug\net8.0\list15.runtimeconfig.json
+D:\2024essentialC#\chapter10\list15\list15\bin\Debug\net8.0\list15.dll
+D:\2024essentialC#\chapter10\list15\list15\bin\Debug\net8.0\list15.pdb
+D:\2024essentialC#\chapter10\list15\list15\obj\Debug\net8.0\list15.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024essentialC#\chapter10\list15\list15\obj\Debug\net8.0\list15.AssemblyInfoInputs.cache
+D:\2024essentialC#\chapter10\list15\list15\obj\Debug\net8.0\list15.AssemblyInfo.cs
+D:\2024essentialC#\chapter10\list15\list15\obj\Debug\net8.0\list15.csproj.CoreCompileInputs.cache
+D:\2024essentialC#\chapter10\list15\list15\obj\Debug\net8.0\list15.dll
+D:\2024essentialC#\chapter10\list15\list15\obj\Debug\net8.0\refint\list15.dll
+D:\2024essentialC#\chapter10\list15\list15\obj\Debug\net8.0\list15.pdb
+D:\2024essentialC#\chapter10\list15\list15\obj\Debug\net8.0\list15.genruntimeconfig.cache
+D:\2024essentialC#\chapter10\list15\list15\obj\Debug\net8.0\ref\list15.dll

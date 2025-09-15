@@ -1,0 +1,14 @@
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\bin\Debug\net8.0\ResourceWrapper.exe
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\bin\Debug\net8.0\ResourceWrapper.deps.json
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\bin\Debug\net8.0\ResourceWrapper.runtimeconfig.json
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\bin\Debug\net8.0\ResourceWrapper.dll
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\bin\Debug\net8.0\ResourceWrapper.pdb
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\obj\Debug\net8.0\ResourceWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\obj\Debug\net8.0\ResourceWrapper.AssemblyInfoInputs.cache
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\obj\Debug\net8.0\ResourceWrapper.AssemblyInfo.cs
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\obj\Debug\net8.0\ResourceWrapper.csproj.CoreCompileInputs.cache
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\obj\Debug\net8.0\ResourceWrapper.dll
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\obj\Debug\net8.0\refint\ResourceWrapper.dll
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\obj\Debug\net8.0\ResourceWrapper.pdb
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\obj\Debug\net8.0\ResourceWrapper.genruntimeconfig.cache
+D:\2024essentialC#\chapter10\list15\ResourceWrapper\obj\Debug\net8.0\ref\ResourceWrapper.dll
